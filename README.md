@@ -1,4 +1,4 @@
-# ops-center
+# coin-profit
 
 ## Project setup
 ```
